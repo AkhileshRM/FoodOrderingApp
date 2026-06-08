@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+
+.shimmer-card{
+    @apply m-[10px] w-[250px] h-[200px] bg-[#f0f0f0]
+}
+@tailwind utilities;
